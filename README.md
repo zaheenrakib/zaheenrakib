@@ -9,7 +9,7 @@ I'm a MERN stack developer passionate about building web applications with Mongo
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://your-portfolio.com)
 
 
-![Profile Banner](https://avatars.githubusercontent.com/u/124238897?v=4)
+
 
 ## About Me
 
