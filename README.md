@@ -33,7 +33,7 @@ I'm a software engineer specializing in full-stack web development with the MERN
 ### [Bistro Boss](https://bistro-boss-da37b.web.app)
 - **Description:** A Restaurant Management Application.
 - **Technologies:** MongoDB, Express, React, Node.js
-- **[Live Demo](https://bistro-boss-da37b.web.app)** | **[Source Code]([LINK_TO_SOURCE_CODE](https://github.com/zaheenrakib/Bistro-Boss-Client))**
+- **[Live Demo](https://bistro-boss-da37b.web.app)** | **[Source Code](https://github.com/zaheenrakib/Bistro-Boss-Client)**
 
 ---
 
