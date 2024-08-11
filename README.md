@@ -1,4 +1,4 @@
-# Hi there, I'm Rakib 👋
+# Hi there, I'm Zaheen Rakib 👋
 
 I'm a MERN stack developer passionate about building web applications with MongoDB, Express, React, and Node.js.
 
@@ -7,12 +7,6 @@ I'm a MERN stack developer passionate about building web applications with Mongo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://zaheenrakib.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://zaheenrakib.com)
-
-
-
 
 ## About Me
 
@@ -36,22 +30,15 @@ I'm a software engineer specializing in full-stack web development with the MERN
 - **Technologies:** MongoDB, Express, React, Node.js
 - **[Live Demo](https://tourism-management-52d9d.web.app)** | **[Source Code](https://github.com/programming-hero-web-course-4/B9A10-client-side-zaheenrakib)**
 
-### [Another Project Name](LINK_TO_PROJECT)
-- **Description:** A brief description of what the project does.
+### [Bistro Boss](https://bistro-boss-da37b.web.app)
+- **Description:** A Restaurant Management Application.
 - **Technologies:** MongoDB, Express, React, Node.js
-- **[Live Demo](LINK_TO_DEMO)** | **[Source Code](LINK_TO_SOURCE_CODE)**
+- **[Live Demo](https://bistro-boss-da37b.web.app)** | **[Source Code]([LINK_TO_SOURCE_CODE](https://github.com/zaheenrakib/Bistro-Boss-Client))**
 
-
-## 📝 Blog Posts
-
-- [Title of Blog Post](LINK_TO_BLOG_POST)
-- [Title of Another Blog Post](LINK_TO_BLOG_POST)
 
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-
 
 ---
 
