@@ -35,6 +35,11 @@ I'm a software engineer specializing in full-stack web development with the MERN
 - **Technologies:** MongoDB, Express, React, Node.js
 - **[Live Demo](https://bistro-boss-da37b.web.app)** | **[Source Code](https://github.com/zaheenrakib/Bistro-Boss-Client)**
 
+### [CueCHem](https://cuechem.vercel.app)
+- **Description:** A chemical industry.
+- **Technologies:** MongoDB, Express, React, Node.js
+- **[Live Demo](https://cuechem.vercel.app)** | **[Source Code](https://github.com/zaheenrakib/CueChem-Center)**
+
 ---
 
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
