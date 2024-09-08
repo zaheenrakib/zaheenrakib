@@ -1,27 +1,28 @@
-# Hi there, I'm Zaheen Rakib 👋
+# Hi I'm Zaheen Rakib
 
-I'm a MERN stack developer passionate about building web applications with MongoDB, Express, React, and Node.js.
+I'm a passionate MERN stack developer, dedicated to building web applications using MongoDB, Express, React, and Node.js. I thrive on transforming ideas into interactive, scalable web solutions.
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://zaheenrakib.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://zaheenrakib.com)
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a software engineer specializing in full-stack web development with the MERN stack. I love crafting efficient and scalable solutions. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying outdoor activities.
+As a software engineer specializing in full-stack development, I'm committed to crafting efficient and scalable web applications. When I'm not coding, I'm exploring the latest tech trends, contributing to open-source, or enjoying some outdoor adventures!
 
-## 🛠 Technologies & Tools
+## 🛠️ Technologies & Tools
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ## 🚀 Projects
 
@@ -36,11 +37,16 @@ I'm a software engineer specializing in full-stack web development with the MERN
 - **[Live Demo](https://bistro-boss-da37b.web.app)** | **[Source Code](https://github.com/zaheenrakib/Bistro-Boss-Client)**
 
 ### [CueCHem](https://cuechem.vercel.app)
-- **Description:** A chemical industry.
+- **Description:** A chemical industry management platform.
 - **Technologies:** MongoDB, Express, React, Node.js
 - **[Live Demo](https://cuechem.vercel.app)** | **[Source Code](https://github.com/zaheenrakib/CueChem-Center)**
 
+## 📊 GitHub Stats
+
+![Zaheen Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=radical&hide=contribs,prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheenrakib&layout=compact&theme=radical)
+
 ---
 
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
-
+*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
