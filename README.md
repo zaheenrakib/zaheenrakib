@@ -26,20 +26,25 @@ As a software engineer specializing in full-stack development, I'm committed to 
 
 ## 🚀 Projects
 
+### [Miraz-Mart](https://miraz-mart.web.app)
+- **Description:** A Ecommerce website.
+- **Technologies:** MongoDB, Express, React, Node.js , Firebase
+- **[Live Demo](https://miraz-mart.web.app)** 
+
 ### [AdvenX Travel Agency](https://tourism-management-52d9d.web.app)
 - **Description:** A Tourism Management website.
 - **Technologies:** MongoDB, Express, React, Node.js
-- **[Live Demo](https://tourism-management-52d9d.web.app)** | **[Source Code](https://github.com/programming-hero-web-course-4/B9A10-client-side-zaheenrakib)**
-
+- **[Live Demo](https://tourism-management-52d9d.web.app)**
+  
 ### [Bistro Boss](https://bistro-boss-da37b.web.app)
 - **Description:** A Restaurant Management Application.
 - **Technologies:** MongoDB, Express, React, Node.js
-- **[Live Demo](https://bistro-boss-da37b.web.app)** | **[Source Code](https://github.com/zaheenrakib/Bistro-Boss-Client)**
-
+- **[Live Demo](https://bistro-boss-da37b.web.app)**
+ 
 ### [CueCHem](https://cuechem.vercel.app)
 - **Description:** A chemical industry management platform.
 - **Technologies:** MongoDB, Express, React, Node.js
-- **[Live Demo](https://cuechem.vercel.app)** | **[Source Code](https://github.com/zaheenrakib/CueChem-Center)**
+- **[Live Demo](https://cuechem.vercel.app)** 
 
 ## 📊 GitHub Stats
 
