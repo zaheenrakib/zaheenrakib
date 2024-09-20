@@ -26,6 +26,11 @@ As a software engineer specializing in full-stack development, I'm committed to 
 
 ## 🚀 Projects
 
+### [Edu-Manage](https://university-ddbcd.web.app)
+- **Description:** A Education Management applications.
+- **Technologies:** MongoDB, Express, React, Node.js , Firebase
+- **[Live Demo](https://university-ddbcd.web.app)** 
+
 ### [Miraz-Mart](https://miraz-mart.web.app)
 - **Description:** A Ecommerce website.
 - **Technologies:** MongoDB, Express, React, Node.js , Firebase
