@@ -1,4 +1,4 @@
-[![MasterHead](https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png)](https://zaheenrakib.com)
+[![MasterHead](https://wallpapercave.com/wp/wp8904080.jpg)](https://zaheenrakib.com)
 
 # 💫 Hi, I'm Zaheen Rakib
 
