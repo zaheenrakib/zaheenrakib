@@ -46,7 +46,7 @@
 - **Technologies:** MongoDB, Express, React, Node.js, Firebase
 - **[Live Demo](https://university-ddbcd.web.app)** 
 
-### [Miraz-Mart](https://miraz-mart.web.app)
+### [Miraz-Mart](https://mirazmart.com)
 - **Description:** An E-commerce website for kids' playing products.
 - **Technologies:** MongoDB, Express, React, Node.js, Firebase
 - **[Live Demo](https://miraz-mart.web.app)** 
@@ -60,11 +60,6 @@
 - **Description:** A Restaurant Management Application.
 - **Technologies:** MongoDB, Express, React, Node.js
 - **[Live Demo](https://bistro-boss-da37b.web.app)**
-
-### [CueChem](https://cuechem.vercel.app)
-- **Description:** A Chemical Industry Management Platform.
-- **Technologies:** MongoDB, Express, React, Node.js
-- **[Live Demo](https://cuechem.vercel.app)**
 
 ---
 
