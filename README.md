@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp8904080.jpg)](https://zaheenrakib.com)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:540/1*BgcUXqrJV7xNofAFWDrCkw.png)](https://zaheenrakib.com)
 
 # 💫 Hi, I'm Zaheen Rakib
 
