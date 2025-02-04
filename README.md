@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:540/1*BgcUXqrJV7xNofAFWDrCkw.png)](https://zaheenrakib.com)
+[![MasterHead](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max)](https://zaheenrakib.com)
 
 # 💫 Hi, I'm Zaheen Rakib
 
