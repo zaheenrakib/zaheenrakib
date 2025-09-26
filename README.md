@@ -3,7 +3,7 @@
 🌱 I’m currently growing as a Full-Stack Software Engineer (MERN + Laravel + Vue + TypeScript).<br>  
 👨‍💻 Explore all of my projects at [My Portfolio](https://zaheenrakib.com)<br>  
 💬 Ask me about **MERN, Vue.js, TypeScript, Laravel & Scalable Web Apps**.<br>  
-📫 How to reach me: **zaheenrakib@gmail.com**<br>  
+📫 How to reach me: **rakibzaheen@gmail.com**<br>  
 
 ---
 
