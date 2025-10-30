@@ -44,17 +44,6 @@
 
 ## 🚀 Featured Projects:
 
-### [ZaiqaBD.com](https://zaiqabd.com)
-- **Description:** A full-featured e-commerce platform for food & restaurant items.  
-- **Stack:** Next.js, Node.js, MongoDB, MySQL, Firebase  
-
-### [UMCL Club](https://umcl.club)
-- **Description:** A Model Club Management System with registration, email, notices & news.  
-- **Stack:** React, Node.js, Express, MySQL  
-
-### [MirazMart](https://mirazmart.com)
-- **Description:** A general e-commerce site with product management and payment gateway.  
-- **Stack:** React, Node.js, MongoDB, Firebase  
 
 ### [Edu-Manage](https://university-ddbcd.web.app)
 - **Description:** An Education Management application.  
