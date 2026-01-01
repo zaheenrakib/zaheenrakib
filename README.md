@@ -1,64 +1,66 @@
-# 💫 Hi, I'm Zaheen Rakib
+# 💫 Hi, I'm Zaheen Rakib 
+### Full-Stack Software Engineer | Architecture & Scalable Solutions
 
-🌱 I’m currently growing as a Full-Stack Software Engineer (MERN + Laravel + Vue + TypeScript).<br>  
-👨‍💻 Explore all of my projects at [My Portfolio](https://zaheenrakib.com)<br>  
-💬 Ask me about **MERN, Vue.js, TypeScript, Laravel & Scalable Web Apps**.<br>  
-📫 How to reach me: **rakibzaheen@gmail.com**<br>  
-
----
-
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://zaheenrakib.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN-Fullstack-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-PHP-ff2d20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-Pro-007acc?style=for-the-badge" />
+</p>
 
 ---
 
-## 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 🧑‍💻 About Me
+- 🌱 Currently engineering high-performance web applications using **MERN, Vue.js, and Laravel**.
+- 🚀 Passionate about **System Architecture**, Clean Code, and UI/UX optimization.
+- 💬 Ask me about: **Full-stack scaling, TypeScript migrations, and Database Design.**
+- 📧 Reach out: [rakibzaheen@gmail.com](mailto:rakibzaheen@gmail.com)
+- 🔗 Portfolio: [zaheenrakib.com](https://zaheenrakib.com)
 
 ---
 
-## 🚀 Featured Projects:
+### 🛠️ Tech Ecosystem
 
-
-### [Edu-Manage](https://university-ddbcd.web.app)
-- **Description:** An Education Management application.  
-- **Stack:** MERN + Firebase  
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=zaheenrakib&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zaheenrakib&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheenrakib&theme=vue-dark&hide_border=true&layout=compact)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Express](https://img.shields.io/badge/-Express-404d59?logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
 ---
 
-### ✍️ Random Dev Quote:
+### 📊 Performance Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheenrakib&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheenrakib&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Weekly Coding Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaheenrakib&theme=tokyonight&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Project: Edu-Manage
+> **An enterprise-grade Education Management System.** > Built with the **MERN Stack** and **Firebase Auth**. It handles student enrollment, grading structures, and real-time dashboard updates.  
+> [🔗 View Project Live](https://university-ddbcd.web.app)
+
+---
+
+### 💡 Daily Dev Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zaheenrakib/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/zaheenrakib"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
