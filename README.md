@@ -1,61 +1,75 @@
-# ⚡ Senior Full-Stack Engineer
+# 👋 Hi, I'm Zaheen Rakib
 
 <p align="left">
-  <a target_blank href="https://zaheenrakib.vercle.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a target="_blank" href="https://zaheenrakib.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/zaheenrakib/">
+  <a target="_blank" href="https://www.linkedin.com/in/zaheenrakib/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-### 🖋️ Executive Summary
-I am **Zaheen Rakib**, a Full-Stack Engineer specialized in building scalable, user-centric web applications. I bridge the gap between robust backend architecture (**Laravel/Node.js**) and fluid, interactive frontends (**Vue/React**).
+---
+
+## About Me
+
+I'm **Zaheen Rakib**, a **Full-Stack Developer** who enjoys building web applications and learning new technologies.
+
+- 💻 Working with **React, Next.js, Vue, Node.js & Laravel**
+- 🌱 Currently learning **Chinese (HSK 1)** and improving backend skills
+- 🔍 Interested in clean code & real-world projects
+- 💼 Open to **job opportunities & freelance work**
 
 ---
 
-### 🛠️ Core Competencies
+## Tech Stack
 
-<details open>
-<summary><b>Frontend Architecture</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,redux,figma" />
-</details>
+**Frontend**
+React | Next.js | Vue | JavaScript | TypeScript | Tailwind CSS
 
-<details open>
-<summary><b>Backend & Infrastructure</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,firebase,postman" />
-</details>
+
+
+**Backend**
+Node.js | Express | Laravel | MongoDB | MySQL | Firebase
+
 
 ---
 
-### 📊 Engineering Analytics
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=transparent&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheenrakib&layout=compact&theme=transparent&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zaheenrakib&theme=transparent&hide_border=true" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaheenrakib&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheenrakib&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 High-Impact Projects
+## 📌 Projects
 
-#### [Edu-Manage (SaaS)](https://university-ddbcd.web.app)
-* **Role:** Lead Developer
-* **Outcome:** Automated administrative workflows for educational institutions using MERN and Real-time Firebase listeners.
-* **Key Tech:** `React` `Node.js` `Express` `MongoDB`
+- 🌐 **Portfolio Website**  
+  https://zaheenrakib.vercel.app
+
+- 🛒 **E-commerce Projects**  
+  React, Node.js, MongoDB
+
+- 🏫 **Management System**  
+  MERN Stack + Firebase
 
 ---
 
-### 💬 Think Tank
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</p>
+## 📫 Contact
+
+- 📧 Email: rakibzaheen@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/zaheenrakib  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaheenrakib&label=Profile%20Views&color=38b2ac&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=zaheenrakib&label=Profile%20Views&style=flat" />
 </p>
