@@ -2,9 +2,9 @@
   Hi there 👋, I'm Zaheen Rakib
 </h1>
 
-
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ## 🙋‍♂️ About Me
 
@@ -63,9 +63,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0A66C2&height=120&section=footer"/>
-</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaheenrakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -90,26 +88,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
----
-
-## 📊 GitHub Stats (Animated)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaheenrakib&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaheenrakib&theme=onedark&no-frame=true&row=1" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0A66C2&height=120&section=footer"/>
 </p>
