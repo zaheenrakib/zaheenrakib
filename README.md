@@ -1,10 +1,12 @@
 <h1 align="center">
   Hi there 👋, I'm Zaheen Rakib
 </h1>
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
 </p>
+
+---
 
 ## 🙋‍♂️ About Me
 
@@ -53,7 +55,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -62,14 +64,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaheenrakib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaheenrakib) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaheenrakib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaheenrakib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheenrakib0@gmail.com) 
 
 ---
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zaheenrakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=zaheenrakib&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📊 GitHub Stats:
 
