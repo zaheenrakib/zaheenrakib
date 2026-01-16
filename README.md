@@ -1,10 +1,8 @@
 <h1 align="center">
-  Hi there 👋, I'm MD Rakibul Islam
+  Hi there 👋, I'm Zaheen Rakib
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
-</p>
+
 
 ---
 
@@ -55,57 +53,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
 
----
 
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaheenrakib&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaheenrakib&theme=onedark&no-frame=true&row=1" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zaheenrakib/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://zaheenrakib.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://zaheenrakib.vercle.app.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaheenrakib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaheenrakib) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaheenrakib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaheenrakib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheenrakib0@gmail.com) 
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0A66C2&height=120&section=footer"/>
 </p>
-
-
-
-
-# 💫 About Me:
-### 👋 Hi, I’m Zaheen Rakib<br><br>- 🔭 **I’m currently working on:**  <br>  Full-stack web applications using **Next.js, React, Node.js**, and modern UI libraries. Focused on scalable, production-ready systems.<br><br>- 👯 **I’m looking to collaborate on:**  <br>  Open-source projects, SaaS products, dashboards, and real-world web applications built with **Next.js, MERN, or TypeScript**.<br><br>- 🤝 **I’m looking for help with:**  <br>  System design, performance optimization, and advanced backend architecture.<br><br>- 🌱 **I’m currently learning:**  <br>  **Advanced Next.js (App Router), TypeScript, Prisma, PostgreSQL**, and scalable system design.<br><br>- 💬 **Ask me about:**  <br>  Next.js, React, Tailwind CSS, REST APIs, authentication (JWT), and full-stack project structure.<br><br>- ⚡ **Fun fact:**  <br>  I enjoy turning complex problems into simple, clean solutions—and I learn something new every day 🚀<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://zaheenrakib.vercle.app.com)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaheenrakib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaheenrakib) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaheenrakib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaheenrakib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheenrakib0@gmail.com) 
-
-
-# 💻 Tech Stack:
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaheenrakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -128,3 +88,28 @@
 ### ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaheenrakib&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaheenrakib&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaheenrakib&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
+</p>
