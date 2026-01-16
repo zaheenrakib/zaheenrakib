@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm Zaheen Rakib
+  👨‍💻 <samp>Zaheen Rakib</samp>
 </h1>
 
 <p align="center">
@@ -75,11 +75,13 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://zaheenrakib.vercle.app.com)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaheenrakib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaheenrakib) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaheenrakib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaheenrakib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheenrakib0@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://zaheenrakib.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheenrakib/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zaheenrakib0@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zaheenrakib)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zaheenrakib)
 
 ---
 
