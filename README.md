@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Zaheen Rakib</h1>
 <div align="center">
-  # Hi 👋, I'm Zaheen Rakib
-### Enterprise Software Engineer & Full-Stack Developer
+  Enterprise Software Engineer & Full-Stack Developer
 </div>
 
 <p align="center">
