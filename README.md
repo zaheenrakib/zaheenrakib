@@ -1,7 +1,7 @@
----
-# Hi 👋, I'm Zaheen Rakib
+<div align="center">
+  # Hi 👋, I'm Zaheen Rakib
 ### Enterprise Software Engineer & Full-Stack Developer
-
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
